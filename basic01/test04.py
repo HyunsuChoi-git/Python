@@ -33,3 +33,8 @@ print(word1[0], word1[4], word1[7])
 hello = "hello"
 print(hello[4]+hello[3]+hello[2]+hello[1]+hello[0])
 print(hello[-1]+hello[-2]+hello[-3]+hello[-4]+hello[-5])
+print(hello[::-1])
+
+print(hello[4::-1])
+
+print(''.join(reversed(hello)))
