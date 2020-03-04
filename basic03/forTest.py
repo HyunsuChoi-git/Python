@@ -7,6 +7,13 @@
 #     elif i < 60:
 #         print("%d 번째 응시자님 %d 점으로 불합격입니다." % (num, i))
 #     num+=1
+scores = [90,45,66,10,49]
+for i in range(len(scores)):
+    if scores[i] >= 60:
+        print("%d 번째 응시자님 %d 점으로 합격입니다." % (i+1, scores[i]))
+    elif scores[i] < 60:
+        print("%d 번째 응시자님 %d 점으로 불합격입니다." % (i+1, scores[i]))
+
 
 
 # for i in range(1,11,2):

@@ -26,18 +26,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic04" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hyunsu\git\Python\basic04" />
       <recent name="D:\hyunsu\git\Python\basic03" />
       <recent name="D:\hyunsu\git\Python\basic02" />
       <recent name="D:\hyunsu\git\Python\basic01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.forTest02">
-    <configuration name="for01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.funcTest2">
+    <configuration name="TicTacToeGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic03/for01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/TicTacToeGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fucn3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic03/for02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/fucn3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="func2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic03/forTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/func2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forTest02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic03/forTest02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/funcTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcTest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic03/while02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/funcTest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.forTest02" />
-        <item itemvalue="Python.forTest" />
-        <item itemvalue="Python.for02" />
-        <item itemvalue="Python.for01" />
-        <item itemvalue="Python.while02" />
+        <item itemvalue="Python.funcTest2" />
+        <item itemvalue="Python.TicTacToeGame" />
+        <item itemvalue="Python.funcTest" />
+        <item itemvalue="Python.fucn3" />
+        <item itemvalue="Python.func2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +175,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="907" y="136" key="#test04/0.0.1920.1040@0.0.1920.1040" timestamp="1582875244678" />
-    <state width="1067" height="250" key="GridCell.Tab.0.bottom" timestamp="1583227208336">
+    <state width="1204" height="337" key="GridCell.Tab.0.bottom" timestamp="1583306315158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583227208336" />
-    <state width="1067" height="250" key="GridCell.Tab.0.center" timestamp="1583227208336">
+    <state width="1204" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583306315158" />
+    <state width="1204" height="337" key="GridCell.Tab.0.center" timestamp="1583306315157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583227208336" />
-    <state width="1067" height="250" key="GridCell.Tab.0.left" timestamp="1583227208336">
+    <state width="1204" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583306315157" />
+    <state width="1204" height="337" key="GridCell.Tab.0.left" timestamp="1583306315157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583227208336" />
-    <state width="1067" height="250" key="GridCell.Tab.0.right" timestamp="1583227208336">
+    <state width="1204" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583306315157" />
+    <state width="1204" height="337" key="GridCell.Tab.0.right" timestamp="1583306315157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583227208336" />
+    <state width="1204" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583306315157" />
     <state width="1427" height="309" key="GridCell.Tab.1.bottom" timestamp="1582875271309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -210,5 +211,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="692" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582875258552" />
+    <state x="918" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1583301432556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="918" y="254" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583301432556" />
   </component>
 </project>
