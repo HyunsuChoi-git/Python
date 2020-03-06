@@ -26,19 +26,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic05/class" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hyunsu\git\Python\basic05\class" />
       <recent name="D:\hyunsu\git\Python\basic04" />
       <recent name="D:\hyunsu\git\Python\basic03" />
       <recent name="D:\hyunsu\git\Python\basic02" />
       <recent name="D:\hyunsu\git\Python\basic01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.set01">
-    <configuration name="Dict01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ClassEX01">
+    <configuration name="Class08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04/dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic05/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/dict/Dict01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic05/class/Class08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dict02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Class09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04/dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic05/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/dict/Dict02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic05/class/Class09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Class10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic05/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/tuple/Tuple03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic05/class/Class10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Class11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic05/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic04/set01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic05/class/Class11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassEX01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic05/class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic01/test04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic05/class/ClassEX01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.set01" />
-        <item itemvalue="Python.Dict02" />
-        <item itemvalue="Python.Dict01" />
-        <item itemvalue="Python.Tuple03" />
-        <item itemvalue="Python.test04" />
+        <item itemvalue="Python.ClassEX01" />
+        <item itemvalue="Python.Class11" />
+        <item itemvalue="Python.Class10" />
+        <item itemvalue="Python.Class09" />
+        <item itemvalue="Python.Class08" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +176,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="907" y="136" key="#test04/0.0.1920.1040@0.0.1920.1040" timestamp="1582875244678" />
-    <state width="1204" height="237" key="GridCell.Tab.0.bottom" timestamp="1583389754213">
+    <state width="1450" height="237" key="GridCell.Tab.0.bottom" timestamp="1583482419863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1204" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583389754213" />
-    <state width="1204" height="237" key="GridCell.Tab.0.center" timestamp="1583389754213">
+    <state width="1450" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583482419863" />
+    <state width="1450" height="237" key="GridCell.Tab.0.center" timestamp="1583482419863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1204" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583389754213" />
-    <state width="1204" height="237" key="GridCell.Tab.0.left" timestamp="1583389754213">
+    <state width="1450" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583482419863" />
+    <state width="1450" height="237" key="GridCell.Tab.0.left" timestamp="1583482419863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1204" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583389754213" />
-    <state width="1204" height="237" key="GridCell.Tab.0.right" timestamp="1583389754213">
+    <state width="1450" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583482419863" />
+    <state width="1450" height="237" key="GridCell.Tab.0.right" timestamp="1583482419863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1204" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583389754213" />
+    <state width="1450" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583482419863" />
     <state width="1427" height="309" key="GridCell.Tab.1.bottom" timestamp="1582875271309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
